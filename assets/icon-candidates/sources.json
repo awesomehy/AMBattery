@@ -1,0 +1,32 @@
+[
+  {
+    "id": "A",
+    "name": "圆润极简",
+    "source": "https://lucide.dev/icons/mouse"
+  },
+  {
+    "id": "B",
+    "name": "经典分键",
+    "source": "https://github.com/google/material-design-icons/blob/master/src/hardware/mouse/materialiconsoutlined/24px.svg"
+  },
+  {
+    "id": "C",
+    "name": "实心轮廓",
+    "source": "https://github.com/tabler/tabler-icons/blob/main/icons/filled/mouse.svg"
+  },
+  {
+    "id": "D",
+    "name": "轻盈双色",
+    "source": "https://github.com/phosphor-icons/core/blob/main/assets/duotone/mouse-simple-duotone.svg"
+  },
+  {
+    "id": "E",
+    "name": "镂空游戏鼠标",
+    "source": null
+  },
+  {
+    "id": "F",
+    "name": "倾斜轮廓",
+    "source": null
+  }
+]

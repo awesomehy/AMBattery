@@ -1,0 +1,25 @@
+# Generated builds, portable releases and local runtime data
+/build/
+/dist/
+/release/
+/release-v*/
+**/data/
+*.log
+*.zip
+
+# Local research, cached vendor resources and design experiments
+/research/
+/network-repair/
+/*preview.html
+__pycache__/
+*.pyc
+
+# Local tooling and credentials
+/.tools/
+/.publish/
+.env
+.env.*
+*.user
+*.suo
+.vs/
+.vscode/

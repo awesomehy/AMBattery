@@ -1,0 +1,12 @@
+[
+  {
+    "source": "research\\am-master-artwork\\img\\img\\angrymiao.png",
+    "target": "angry-miao.png",
+    "sha256": "1cdae526ed04a6114993e645188539badd41f3ea908c5b792db6396952995929"
+  },
+  {
+    "source": "research\\am-master-artwork\\img\\img\\Group 19.png",
+    "target": "no-wire.png",
+    "sha256": "8e6b7a3b6c01ba448aa9c83d934f293af21a9490d552e79e95da0135187832f4"
+  }
+]
